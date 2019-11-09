@@ -16,6 +16,6 @@
 
 画出的图形如下：
 
-![avatar]
+![avatar](https://github.com/Wuxuyao/draw-with-turtle.git)
 
 
